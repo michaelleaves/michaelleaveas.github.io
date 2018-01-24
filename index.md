@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## 私のページへようこそ
 
-You can use the [editor on GitHub](https://github.com/michaelleaves/michaelleaveas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+大阪在住でシステムエンジニアをやっております劉（ﾘｭｳ）と申します。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+企業向けシステムの上流工程である要件定義から、基本設計、詳細設計、プログラミング、テスト、運用までシステム開発の全工程に携わってきており、10年以上豊富なシステム開発経験を持っております。
 
-### Markdown
+今現在、大手電力会社のシステム子会社にリーダーとして在籍し、システム開発に励む傍ら、【ブロックチェーン伝道師】を目指いして、日々ブロックチェーンを研鑽しております。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Welcome to my GitHub Pages
 
-```markdown
-Syntax highlighted code block
+I am an open-minded, friendly and energetic software engineer with widely experienced in all phases of system development from Requirement Definition, External Design, Internal Design, Coding with several programming languages, Testing to Maintenance.
 
-# Header 1
-## Header 2
-### Header 3
+I am living in Osaka, Japan and working for a subsidiary IT company of the 2nd largest electric power company in Japan as a Group Leader.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/michaelleaves/michaelleaveas.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Recently, I am studying Blockchain Technology that I am very interested in and I hope we can share useful information each other. Please feel free to contact me.
